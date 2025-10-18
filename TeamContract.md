@@ -59,8 +59,8 @@ seeking assistance from teammates/TAs/instructors when required
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
-Hanze Guan
-Mustafa Kashif
-Danny Fran
-Tymon Cui
+Hanze Guan,
+Mustafa Kashif,
+Danny Fran,
+Tymon Cui,
 (type names here)
