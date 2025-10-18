@@ -61,6 +61,6 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 Hanze Guan,
 Mustafa Kashif,
-Danny Fran,
+Danny Tran,
 Tymon Cui,
 (type names here)
