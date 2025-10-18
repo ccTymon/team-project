@@ -18,11 +18,9 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
-Instagram
+* The team will use Instagram to communicate
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
-1 day
+* Each teammate agrees to respond to messages in at most 1 days.
 
 * What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
 if they have to miss lecture, labs, or unable to meet the deadline.
@@ -32,26 +30,21 @@ Actively listening to each team members ideas
 
 ### [Other Categories of norms and expectations go here]
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-Open Communication, Decision-Making Process
+* Team member are expected to have open communication, decision-Making Process
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-by unanimous vote
+* Decisions will be discussed within the team groupchat, and decide by unanimous vote if necessary.
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-by listening to each other's side of the issue and attempting to reach a compromise
+* The team will resolve comflict by listening to each other's side of the issue and attempting to reach a compromise. Lastly by votes if necessary.
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-seeking assistance from teammates/TAs/instructors when required
+* Team members should seeking assistance from teammates/TAs/instructors when required
 ---
 
 ---
@@ -63,5 +56,4 @@ Hanze Guan,
 Mustafa Kashif,
 Danny Tran,
 Tymon Cui,
-Matthew Lavoie
-(type names here)
+Matthew Lavoie.
